@@ -1,0 +1,22 @@
+#centerSearch {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 300px;
+  width: 700px;
+  padding: 50px;
+}
+
+#searchBar{
+	display: inline-block;
+	margin:0 auto;
+	width: 70%;
+	margin-right: 10px;
+	margin-left: 50px;
+}
+#title{
+	color: black;
+	padding-bottom:50px;
+}
+
